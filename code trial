@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio Outline</title>
+</head>
+
+<body bgcolor="#ffc0cb">
+
+    <h1>Vheng Matilos</h1>
+
+    <h4>Email: otakusociety9@gmail.com</h4>
+    <h4>Phone: 09708434355</h4>
+
+    <hr>
+
+    <h2><strong>CAREER OBJECTIVE</strong></h2>
+    <p>
+        A Grade 11 TVL-ICT student passionate about mastering web design,<br>
+        coding, and digital skills through fun, hands-on projects.<br>
+        I’m building a portfolio to gain experience in<br>
+        tech support or content creation—<br>
+        all to prep for my dream IT career!
+    </p>
+
+    <hr>
+
+    <h2><strong>PERSONAL INFORMATION</strong></h2>
+    <ul>
+        <li><b>Birthdate:</b> January 28, 2009</li>
+        <li><b>Birth Place:</b> Cagay Barili, Cebu</li>
+    </ul>
+
+</body>
+</html>
